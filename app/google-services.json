@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465027374969",
+    "project_id": "database-loseit---uas-ppapb",
+    "storage_bucket": "database-loseit---uas-ppapb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465027374969:android:fe480b5904134d090619a8",
+        "android_client_info": {
+          "package_name": "com.example.loseit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GKajgYe4w-MWUYjTCiP6i3VPgjQTT0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
